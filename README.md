@@ -1,0 +1,2 @@
+# Negociacao
+Projeto para estudos
